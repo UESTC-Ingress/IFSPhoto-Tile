@@ -1,4 +1,4 @@
-# ifs-photo-flat
+# ifsphoto-tile
 
 ## Project setup
 ```

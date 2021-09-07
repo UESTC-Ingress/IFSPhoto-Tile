@@ -1,5 +1,5 @@
 {
-  "name": "ifs-photo-flat",
+  "name": "ifsphoto-tile",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,7 +9,8 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
-    "vue": "^2.6.11"
+    "vue": "^2.6.11",
+    "vue-stack-grid": "^1.2.2"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
